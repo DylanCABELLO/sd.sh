@@ -70,4 +70,5 @@ while [[ $cTmp -lt $cmpt ]]; do
 	
 	((cTmp+=1))
 done
+
 exit 0
